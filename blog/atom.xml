@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://simatian.github.io/blog</id>
+    <title>Optimization Playground Blog</title>
+    <updated>2021-01-20T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://simatian.github.io/blog"/>
+    <subtitle>Optimization Playground Blog</subtitle>
+    <icon>https://simatian.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Introduction]]></title>
+        <id>First post</id>
+        <link href="https://simatian.github.io/optimization-playground/blog/First post"/>
+        <updated>2021-01-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Test]]></summary>
+    </entry>
+</feed>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Optimization Playground Blog</title>
+        <link>https://simatian.github.io/blog</link>
+        <description>Optimization Playground Blog</description>
+        <lastBuildDate>Wed, 20 Jan 2021 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Introduction]]></title>
+            <link>https://simatian.github.io/optimization-playground/blog/First post</link>
+            <guid>First post</guid>
+            <pubDate>Wed, 20 Jan 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Test]]></description>
+        </item>
+    </channel>
+</rss>
