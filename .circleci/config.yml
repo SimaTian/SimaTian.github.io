@@ -7,7 +7,7 @@ aliases:
       only:
         - deploy
 
-version: 2
+version: 2.1
 jobs:
   deploy-website:
     docker:
@@ -25,7 +25,7 @@ jobs:
             cd website && yarn install && GIT_USER=SimaTian yarn run deploy
 
 workflows:
-  version: 2
+  version: 2.1
   build_and_deploy:
     jobs:
       - deploy-website:
