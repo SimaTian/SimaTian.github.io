@@ -2,12 +2,12 @@ module.exports = {
   title: 'Optimization Playground',
   tagline: 'Can it go faster?',
   url: 'https://SimaTian.github.io',
-  baseUrl: '/',
+  baseUrl: '/docusaurus/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: '', // Usually your GitHub org/user name.
-  projectName: 'playground', // Usually your repo name.
+  organizationName: 'SimaTian', // Usually your GitHub org/user name.
+  projectName: 'SimaTian.github.io', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'Optimization Playground',
