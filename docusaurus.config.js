@@ -1,8 +1,8 @@
 module.exports = {
   title: 'Optimization Playground',
   tagline: 'Can it go faster?',
-  url: 'https://SimaTian.github.io',
-  baseUrl: '/',
+  url: 'https://simatian.github.io',
+  baseUrl: '/optimization-playground/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
