@@ -2,7 +2,7 @@ module.exports = {
   title: 'Optimization Playground',
   tagline: 'Can it go faster?',
   url: 'https://SimaTian.github.io',
-  baseUrl: '/docusaurus/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
